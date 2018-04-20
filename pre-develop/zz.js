@@ -1,0 +1,3 @@
+function getData () {
+ alert ('liuzhiya');
+}
